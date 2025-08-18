@@ -6,8 +6,8 @@
 
 ```bash
 # 1. Clone production branch
-git clone -b production https://github.com/snipher-marube/alx-project-nexus.git
-cd alx-project-nexus
+git clone -b production https://github.com/snipher-marube/Alx-ecommerce.git
+cd Alx-ecommerce
 
 # 2. Set up production environment
 cp .env.example .env.production

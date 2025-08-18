@@ -4,8 +4,8 @@ For development without Docker:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/snipher-marube/alx-project-nexus.git
-   cd alx-project-nexus
+   git clone https://github.com/snipher-marube/Alx-ecommerce.git
+   cd Alx-ecommerce
    ```
 
 2. **Create and activate virtual environment**

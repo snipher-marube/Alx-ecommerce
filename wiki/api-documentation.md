@@ -1,6 +1,6 @@
 ## 📚 API Documentation
 
-ALX Project Nexus provides comprehensive API documentation with interactive testing capabilities.
+ALX Capstone Project provides comprehensive API documentation with interactive testing capabilities.
 
 ### 📖 Documentation Access
 

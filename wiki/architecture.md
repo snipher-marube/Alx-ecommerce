@@ -1,6 +1,6 @@
 ## 🏗️ Architecture
 
-ALX Project Nexus follows a **modular, microservices-inspired architecture** within a Django monolith, ensuring scalability and maintainability.
+ALX Capstone Project follows a **modular, microservices-inspired architecture** within a Django monolith, ensuring scalability and maintainability.
 
 ```mermaid
 graph TB

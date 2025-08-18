@@ -1,4 +1,4 @@
-# ALX Project Nexus - E-commerce API
+# ALX Capstone Project - E-commerce API
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ## 🎯 Overview
 
-**ALX Project Nexus** is a robust, scalable, and production-ready e-commerce backend API. This enterprise-grade RESTful API provides comprehensive functionality for modern e-commerce platforms, featuring advanced product management, secure user authentication, sophisticated order processing, and seamless payment integration.
+**ALX Capstone Project** is a robust, scalable, and production-ready e-commerce backend API. This enterprise-grade RESTful API provides comprehensive functionality for modern e-commerce platforms, featuring advanced product management, secure user authentication, sophisticated order processing, and seamless payment integration.
 
 ## 🛠 Technology Stack
 
@@ -42,8 +42,8 @@ The fastest way to get your development environment up and running is by using D
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/snipher-marube/alx-project-nexus.git
-cd alx-project-nexus
+git clone https://github.com/snipher-marube/Alx-ecommerce.git
+cd Alx-ecommerce
 
 # 2. Build and run the containers
 docker-compose up --build
