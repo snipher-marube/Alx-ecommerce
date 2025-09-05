@@ -27,7 +27,7 @@ uritemplate==4.2.0
 urllib3==2.5.0
 whitenoise==6.9.0
 pytest-django==4.11.1
-pytest==8.4.1
+pytest==8.4.2
 pytest-mock==3.14.1
 pytest-env==1.1.5
 django-extensions==4.1
